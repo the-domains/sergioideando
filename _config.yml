@@ -1,0 +1,23 @@
+name: sergioideando
+favicon: null
+layout_spectrum: 0.46823855955153704
+typography_spectrum: 0.9981892516370863
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7125862427055836
+  lightness: 0.1551884284708649
+  saturation: 0.34932775842025876
+  rhythmicContrast: 0.8380260528065264
+purpose: []
